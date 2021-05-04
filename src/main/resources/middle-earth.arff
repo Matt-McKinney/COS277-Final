@@ -1,0 +1,760 @@
+@RELATION middle-earth-names
+
+@ATTRIBUTE name string
+@ATTRIBUTE race {Dwarf,Elf,Hobbit,Human,Maiar}
+
+@DATA
+"Adanel",Human
+"Adrahil I",Human
+"Adrahil II",Human
+"Aegnor",Elf
+"Aerin",Human
+"Aglahad",Human
+"Ailinel",Human
+"Aldamir",Human
+"Aldor",Human
+"Algund",Human
+"Almarian",Human
+"Almiel",Human
+"Alphros",Human
+"Amandil",Human
+"Amarië",Elf
+"Amdír",Elf
+"Amlaith",Human
+"Amras",Elf
+"Amrod",Elf
+"Amroth",Elf
+"Amrothos",Human
+"Anairë",Elf
+"Anardil",Human
+"Anborn",Human
+"Andreth",Human
+"Andróg",Human
+"Angamaitë",Human
+"Angbor",Human
+"Angelimir",Human
+"Angrod",Elf
+"Annael",Elf
+"Anárion",Human
+"Ar-Adûnakhôr",Human
+"Ar-Gimilzôr",Human
+"Ar-Pharazôn",Human
+"Ar-Sakalthôr",Human
+"Ar-Zimrathôn",Human
+"Arador",Human
+"Araglas",Human
+"Aragorn I",Human
+"Aragorn II Elessar",Human
+"Aragost",Human
+"Arahad I",Human
+"Arahad II",Human
+"Arahael",Human
+"Aranarth",Human
+"Arantar",Human
+"Aranuir",Human
+"Aranwë",Elf
+"Araphant",Human
+"Araphor",Human
+"Arassuil",Human
+"Aratan",Human
+"Arathorn I",Human
+"Arathorn II",Human
+"Araval",Human
+"Aravir",Human
+"Aravorn",Human
+"Arciryas",Human
+"Ardamir",Human
+"Aredhel",Elf
+"Argeleb I",Human
+"Argeleb II",Human
+"Argon",Elf
+"Argonui",Human
+"Arminas",Elf
+"Arthad",Human
+"Arvedui",Human
+"Arvegil",Human
+"Arveleg I",Human
+"Arveleg II",Human
+"Arwen",Elf
+"Atanalcar",Human
+"Atanatar I",Human
+"Atanatar II",Human
+"Aulendil",Human
+"Axantur",Human
+"Azaghâl",Dwarf
+"Angelica Baggins",Hobbit
+"Balbo Baggins",Hobbit
+"Belladonna Baggins",Hobbit
+"Berylla Baggins",Hobbit
+"Bungo Baggins",Hobbit
+"Drogo Baggins",Hobbit
+"Dudo Baggins",Hobbit
+"Fosco Baggins",Hobbit
+"Frodo Baggins",Hobbit
+"Laura Baggins",Hobbit
+"Longo Baggins",Hobbit
+"Mungo Baggins",Hobbit
+"Peony Burrows",Hobbit
+"Ponto Baggins",Hobbit
+"Ponto Baggins II",Hobbit
+"Porto Baggins",Hobbit
+"Bain",Human
+"Balin",Dwarf
+"Baragund",Human
+"Barahir",Human
+"Barahir",Human
+"Baran",Human
+"Baranor",Human
+"Baranor",Human
+"Bard",Human
+"Bard II",Human
+"Beldir",Human
+"Beldis",Human
+"Belecthor I",Human
+"Belecthor II",Human
+"Beleg of Arnor",Human
+"Belegorn",Human
+"Belegund",Human
+"Belemir",Human
+"Belen",Human
+"Beorn",Human
+"Bereg",Human
+"Beregond",Human
+"Beregond",Human
+"Berelach",Human
+"Beren",Human
+"Beren",Human
+"Beren",Human
+"Bergil",Human
+"Bifur",Dwarf
+"Bilbo Baggins",Hobbit
+"Black Serpent",Human
+"Bladorthin",Human
+"Blanco",Hobbit
+"Bob",Hobbit
+"Donnamira Boffin",Hobbit
+"Basso Boffin",Hobbit
+"Bosco Boffin",Hobbit
+"Buffo Boffin",Hobbit
+"Daisy Boffin",Hobbit
+"Druda Burrows Boffin",Hobbit
+"Folco Boffin",Hobbit
+"Gerda Bolger",Hobbit
+"Griffo Boffin",Hobbit
+"Hugo Boffin",Hobbit
+"Ivy Boffin",Hobbit
+"Jago Boffin",Hobbit
+"Otto Boffin",Hobbit
+"Rollo Boffin",Hobbit
+"Tosto Boffin",Hobbit
+"Vigo Boffin",Hobbit
+"Bofur",Dwarf
+"Filibert Bolger",Hobbit
+"Fredegar Bolger",Hobbit
+"Jessamine Bolger",Hobbit
+"Odovacar Bolger",Hobbit
+"Rosamunda Bolger",Hobbit
+"Wilibald Bolger",Hobbit
+"Bombur",Dwarf
+"Borin",Dwarf
+"Borlach",Human
+"Borlad",Human
+"Borlas",Human
+"Boromir",Human
+"Boromir",Human
+"Boromir",Human
+"Boron",Human
+"Borondir",Human
+"Borthand",Human
+"Blanco Bracegirdle",Hobbit
+"Bruno Bracegirdle",Hobbit
+"Primrose Bracegirdle",Hobbit
+"Brand",Human
+"Brandir",Human
+"Adaldrida Brandybuck",Hobbit
+"Amaranth Brandybuck",Hobbit
+"Celandine Brandybuck",Hobbit
+"Esmeralda Brandybuck",Hobbit
+"Estella Brandybuck",Hobbit
+"Hilda Brandybuck",Hobbit
+"Madoc Brandybuck",Hobbit
+"Melilot Brandybuck",Hobbit
+"Mentha Brandybuck",Hobbit
+"Meriadoc Brandybuck",Hobbit
+"Mirabella Brandybuck",Hobbit
+"Primula Baggins",Hobbit
+"Seredic Brandybuck",Hobbit
+"Brego",Human
+"Bregolas",Human
+"Bregor",Human
+"Sapphira Boffin",Hobbit
+"Bucca of the Marish",Hobbit
+"Asphodel Burrows",Hobbit
+"Milo Burrows",Hobbit
+"Minto Burrows",Hobbit
+"Bëor",Human
+"Bór",Human
+"Calimehtar",Human
+"Caliondo",Human
+"Calmacil",Human
+"Caranthir",Elf
+"Castamir the Usurper",Human
+"Celeborn",Elf
+"Celebrimbor",Elf
+"Celebrindor",Human
+"Celebrían",Elf
+"Celegorm",Elf
+"Celepharn",Human
+"Cemendur",Human
+"Cemendur",Human
+"Ceorl",Human
+"Falco Chubb-Baggins",Hobbit
+"Cirion",Human
+"Ciryandil",Human
+"Ciryatur",Human
+"Ciryon",Human
+"Bowman Cotton",Hobbit
+"Lily Cotton",Hobbit
+"Marigold Cotton",Hobbit
+"Rosie Cotton",Hobbit
+"Tolman Cotton",Hobbit
+"Curufin",Elf
+"Círdan",Elf
+"Dairuin",Human
+"Damrod",Human
+"User:Deathshriek",Dwarf
+"Denethor",Elf
+"Denethor I",Human
+"Denethor II",Human
+"Derufin",Human
+"Dervorin",Human
+"Diamond Took",Hobbit
+"Dinodas Brandybuck",Hobbit
+"Dior",Human
+"Dodinas Brandybuck",Hobbit
+"Dori",Dwarf
+"Dorlas",Human
+"Duilin",Human
+"Duinhir",Human
+"Durin VII",Dwarf
+"Dwalin",Dwarf
+"Dáin I",Dwarf
+"Dáin II Ironfoot",Dwarf
+"Déagol",Hobbit
+"Déor",Human
+"Déorwine",Human
+"Dírhael",Human
+"Dírhavel",Human
+"Dís",Dwarf
+"Dúnhere",Human
+"Ecthelion I",Human
+"Ecthelion II",Human
+"Edrahil",Elf
+"Egalmoth",Human
+"Eglantine Took",Hobbit
+"Eilinel",Human
+"Elatan",Human
+"Elboron",Human
+"Eldacar",Human
+"Eldacar",Human
+"Eldalótë",Elf
+"Eldarion",Human
+"Elemmírë",Elf
+"Elendil",Human
+"Elendur",Human
+"Elendur of Arnor",Human
+"Elenwë",Elf
+"Elfhelm",Human
+"Elfhild",Human
+"Elfwine",Human
+"Elladan and Elrohir",Elf
+"Elphir",Human
+"Elrond",Elf
+"Emeldir",Human
+"Enel",Elf
+"Enelyë",Elf
+"Enerdhil",Elf
+"Éomer",Human
+"Eorl the Young",Human
+"Éowyn",Human
+"Eradan",Human
+"Erchirion",Human
+"Erellont",Elf
+"Erendis",Human
+"Erestor",Elf
+"Erkenbrand",Human
+"Estelmo",Human
+"Eärendil of Gondor",Human
+"Eärendur",Human
+"Eärendur of Arnor",Human
+"Eärendur of Númenor",Human
+"Eärnil I",Human
+"Eärnil II",Human
+"Eärnur",Human
+"Eärwen",Elf
+"Eöl",Elf
+"Faramir",Human
+"Faramir",Human
+"Farin",Dwarf
+"Fastolph Bolger",Hobbit
+"Fastred",Human
+"Fastred",Human
+"Fengel",Human
+"Ferumbras Took II",Hobbit
+"Finarfin",Elf
+"Findegil",Human
+"Findis",Elf
+"Finduilas",Elf
+"Finduilas of Dol Amroth",Human
+"Fingolfin",Elf
+"Fingon",Elf
+"Finrod",Elf
+"Finwë",Elf
+"Flói",Dwarf
+"Folca",Human
+"Folcred",Human
+"Folcwine",Human
+"Forlong",Human
+"Forthwini",Human
+"Fortinbras Took I",Hobbit
+"Forweg",Human
+"Fram",Human
+"Freca",Human
+"Frerin",Dwarf
+"Frumgar",Human
+"Frár",Dwarf
+"Fréa",Human
+"Fréaláf Hildeson",Human
+"Fréawine",Human
+"Frór",Dwarf
+"Fundin",Dwarf
+"Fëanor",Elf
+"Fíli and Kíli",Dwarf
+"Fíriel",Human
+"Galadriel",Elf
+"Galar",Dwarf
+"Galdor",Human
+"Galdor of the Havens",Elf
+"Galion",Elf
+"Daisy Gamgee I",Hobbit
+"Frodo Gardner",Hobbit
+"Halfred Gamgee",Hobbit
+"Hamfast Gamgee",Hobbit
+"Hamson Gamgee",Hobbit
+"May Gamgee",Hobbit
+"Samwise Gamgee",Hobbit
+"Gamling",Human
+"Elanor Gardner",Hobbit
+"Gelmir",Elf
+"Gelmir",Elf
+"Gethron",Human
+"Ghân-buri-Ghân",Human
+"Gil-galad",Elf
+"Gildis",Human
+"Gildor",Human
+"Gildor Inglorion",Elf
+"Gilfanon",Elf
+"Gilraen",Human
+"Gimilkhâd",Human
+"Gimilzagar",Human
+"Gimli",Dwarf
+"Girion",Human
+"Glirhuin",Human
+"Glorfindel",Elf
+"Gléowine",Human
+"Glóin",Dwarf
+"Glóin",Dwarf
+"Glóredhel",Human
+"Golasgil",Human
+"Goldwine",Human
+"Hanna Brandybuck",Hobbit
+"Gorbulas Brandybuck",Hobbit
+"Gorhendad Brandybuck",Hobbit
+"Gorlim",Human
+"Gormadoc Deepdelver Brandybuck",Hobbit
+"Gram",Human
+"Erling Greenhand",Hobbit
+"Halfred Greenhand",Hobbit
+"Hending Greenhand",Hobbit
+"Holman Greenhand",Hobbit
+"Rose Greenhand",Hobbit
+"Grimbeorn",Human
+"Grimbold",Human
+"Grithnir",Human
+"Gróin",Dwarf
+"Grór",Dwarf
+"Guilin",Elf
+"Gundor",Human
+"Guthláf",Human
+"Gwindor",Elf
+"Gálmód",Human
+"Gárulf",Human
+"Hador",Human
+"Hador",Human
+"Halbarad",Human
+"Haldir",Human
+"Haldir",Elf
+"Haleth",Human
+"Haleth",Human
+"Hallacar",Human
+"Hallas",Human
+"Hallatan",Human
+"Halmir",Human
+"Hamfast of Gamwich",Hobbit
+"Handir",Human
+"Hardang",Human
+"Harding",Human
+"Hareth",Human
+"Hathaldir",Human
+"Hathol",Human
+"Hatholdir",Human
+"Helm Hammerhand",Human
+"Henderch",Human
+"Hendor",Elf
+"Herefara",Human
+"Herion",Human
+"Herubrand",Human
+"Herucalmo",Human
+"Hirgon",Human
+"Hirluin",Human
+"Hob Gammidge",Hobbit
+"Hob Hayward",Hobbit
+"Holfast Gardner",Hobbit
+"Horn",Human
+"Tobias Hornblower",Hobbit
+"Hundad",Human
+"Hundar",Human
+"Hunthor",Human
+"Huor",Human
+"Hyarmendacil I",Human
+"Hyarmendacil II",Human
+"Háma",Human
+"Háma",Human
+"Húrin",Human
+"Húrin I",Human
+"Húrin II",Human
+"Húrin of Emyn Arnen",Human
+"Ibûn",Dwarf
+"Idril",Elf
+"Imin",Elf
+"Iminyë",Elf
+"Imlach",Human
+"Imrahil",Human
+"Imrazôr",Human
+"Indis",Elf
+"Indor",Human
+"Ingold",Human
+"Ingwion",Elf
+"Ingwë",Elf
+"Inzilbêth",Human
+"Ioreth",Human
+"Iorlas",Human
+"Isembold Took",Hobbit
+"Isengrim Took III",Hobbit
+"Isildur",Human
+"Isilmo",Human
+"Isilmë",Human
+"Ivorwen",Human
+"Ivriniel",Human
+"Lalaith",Human
+"Larnach",Human
+"Legolas",Elf
+"Lenwë",Elf
+"Lindir",Elf
+"Lindissë",Human
+"Lindo",Elf
+"Lindórië",Human
+"Lorgan",Human
+"Lothíriel",Human
+"Léod",Human
+"Brytta Léofa",Human
+"Lóni",Dwarf
+"Lúthien",Elf
+"Mablung the Ranger",Human
+"Maedhros",Elf
+"Maeglin",Elf
+"Farmer Maggot",Hobbit
+"Maglor",Elf
+"Magor",Human
+"Mahtan",Elf
+"Mairen",Human
+"Malach",Human
+"Malbeth the Seer",Human
+"Mallor",Human
+"Malva Headstrong Brandybuck",Hobbit
+"Malvegil",Human
+"Manthor",Human
+"Manwendil",Human
+"Marach",Human
+"Marcho",Hobbit
+"Mardil Voronwë",Human
+"Marhari",Human
+"Marhwini",Human
+"Marmadas Brandybuck",Hobbit
+"Marroc Brandybuck",Hobbit
+"Master of Laketown",Human
+"Meleth",Human
+"Meneldil",Human
+"Meril-i-Turinqi",Elf
+"Merimas Brandybuck",Hobbit
+"Minardil",Human
+"Minohtar",Human
+"Mithrellas",Elf
+"Morwen",Human
+"Morwen",Human
+"Morwë",Elf
+"Míriel",Elf
+"Mîm",Dwarf
+"Narmacil I",Human
+"Narmacil II",Human
+"Naugladur",Dwarf
+"Nerdanel",Elf
+"Nessanië",Human
+"Nimrodel",Elf
+"Nina Lightfoot",Hobbit
+"Niënor",Human
+"Nob",Hobbit
+"Nolondil",Human
+"Nori",Dwarf
+"Nurwë",Elf
+"Náin",Dwarf
+"Náin I",Dwarf
+"Náin II",Dwarf
+"Náli",Dwarf
+"Nár",Dwarf
+"Númendil",Human
+"Núneth",Human
+"Ohtar",Human
+"Old Noakes",Hobbit
+"Olwë",Elf
+"Ondoher",Human
+"Orchaldor",Human
+"Ori",Dwarf
+"Orodreth",Elf
+"Orodreth",Human
+"Oromendil",Human
+"Oropher",Elf
+"Orophin",Elf
+"Ostoher",Human
+"Otho Sackville-Baggins",Hobbit
+"Pelendur",Human
+"Pengolodh",Elf
+"Mrs. Proudfoot",Hobbit
+"Odo Proudfoot",Hobbit
+"Radhruin",Human
+"Ragnir",Human
+"Ragnor",Human
+"Rowan Greenhand",Hobbit
+"Rudigar Bolger",Hobbit
+"Rufus Burrows",Hobbit
+"Rían",Human
+"Rían",Human
+"Rómendacil I",Human
+"Rómendacil II",Human
+"Rúmil",Elf
+"Rúmil of Lórien",Elf
+"Lobelia Sackville-Baggins",Hobbit
+"Lotho Sackville-Baggins",Hobbit
+"Sadoc Brandybuck",Hobbit
+"Sador",Human
+"Saelon",Human
+"Sagroth",Human
+"Ted Sandyman",Hobbit
+"Sangahyando",Human
+"Saradas Brandybuck",Hobbit
+"Silmariën",Human
+"Siriondil",Human
+"Robin Smallburrow",Hobbit
+"Soronto",Human
+"Morwen Steelsheen",Human
+"Tar-Alcarin",Human
+"Tar-Aldarion",Human
+"Tar-Amandil",Human
+"Tar-Ancalimon",Human
+"Tar-Ancalimë",Human
+"Tar-Anárion",Human
+"Tar-Ardamin",Human
+"Tar-Atanamir",Human
+"Tar-Calmacil",Human
+"Tar-Ciryatan",Human
+"Tar-Elendil",Human
+"Tar-Meneldur",Human
+"Tar-Minastir",Human
+"Tar-Míriel",Human
+"Tar-Palantir",Human
+"Tar-Súrion",Human
+"Tar-Telemmaitë",Human
+"Tar-Telperiën",Human
+"Tar-Vanimeldë",Human
+"Tarannon Falastur",Human
+"Tarcil",Human
+"Tarciryan",Human
+"Targon",Human
+"Tarondor",Human
+"Tarondor of Arnor",Human
+"Tata",Elf
+"Tatië",Elf
+"User:Technobliterator/Showcase",Hobbit
+"Telchar",Dwarf
+"Telemnar",Human
+"Telumehtar",Human
+"The King of the Dead",Human
+"Thengel",Human
+"Thorin I",Dwarf
+"Thorin II Oakenshield",Dwarf
+"Thorin III Stonehelm",Dwarf
+"Thorondir",Human
+"Thranduil",Elf
+"Thráin I",Dwarf
+"Thráin II",Dwarf
+"Thrór",Dwarf
+"Théoden",Human
+"Théodred",Human
+"Tindómiel",Human
+"Faramir Took I",Hobbit
+"Isumbras Took I",Hobbit
+"Fortinbras Took II",Hobbit
+"Isengrim Took II",Hobbit
+"Isumbras Took III",Hobbit
+"Adalgrim Took",Hobbit
+"Adamanta Took",Hobbit
+"Adelard Took",Hobbit
+"Bandobras Took",Hobbit
+"Ferumbras III Took",Hobbit
+"Gerontius Took",Hobbit
+"Hildibrand Took",Hobbit
+"Hildifons Took",Hobbit
+"Hildigrim Took",Hobbit
+"Isembard Took",Hobbit
+"Paladin Took II",Hobbit
+"Pearl Took",Hobbit
+"Peregrin Took",Hobbit
+"Rosa Took",Hobbit
+"Sigismond Took",Hobbit
+"Tulkastor",Elf
+"Tuor",Human
+"Turambar",Human
+"Turgon",Elf
+"Turgon",Human
+"Túrin",Human
+"Túrin I",Human
+"Túrin II",Human
+"Ulbar",Human
+"Uldor",Human
+"Ulfang",Human
+"Ulfast",Human
+"Ulwarth",Human
+"Urthel",Human
+"Vairë",Elf
+"Valacar",Human
+"Valandil",Human
+"Valandil of Andúnië",Human
+"Valandur",Human
+"Vardamir Nólimon",Human
+"Vardilmë",Human
+"Vidugavia",Human
+"Vidumavi",Human
+"Vorondil",Human
+"Voronwë",Elf
+"Vëantur",Human
+"Walda",Human
+"Willie Banks",Hobbit
+"Wiseman Gamwich",Hobbit
+"Wulf I",Human
+"Wídfara",Human
+"Yávien",Human
+"Írildë",Human
+"Írimë",Elf
+"Óin",Dwarf
+"Óin",Dwarf
+"Bingo Baggins",Hobbit
+"Chica Baggins",Hobbit
+"Dora Baggins",Hobbit
+"Largo Baggins",Hobbit
+"Mimosa Baggins",Hobbit
+"Pansy Baggins",Hobbit
+"Polo Baggins",Hobbit
+"Ponto Baggins I",Hobbit
+"Ruby Baggins",Hobbit
+"Adalgar Bolger",Hobbit
+"Gundahar Bolger",Hobbit
+"Prisca Bolger",Hobbit
+"Rudibert Bolger",Hobbit
+"Theobald Bolger",Hobbit
+"Wilimar Bolger",Hobbit
+"Camellia Baggins",Hobbit
+"Everard Took",Hobbit
+"Ferdibrand Took",Hobbit
+"Ferdinand Took",Hobbit
+"Flambard Took",Hobbit
+"Lalia Took",Hobbit
+"Pervinca Took",Hobbit
+"Pimpernel Took",Hobbit
+"Reginard Took",Hobbit
+"Ruby Gamgee",Hobbit
+"Rudolph Bolger",Hobbit
+"Tanta Baggins",Hobbit
+"Inigo Baggins",Hobbit
+"Tanta Hornblower",Hobbit
+"Tobold Hornblower",Hobbit
+"Lily Goodbody",Hobbit
+"Bell Gamgee",Hobbit
+"Togo Goodbody",Hobbit
+"Goldberry",Hobbit
+"Goldilocks Took",Hobbit
+"Merry Gamgee",Hobbit
+"Bilbo Gamgee",Hobbit
+"Halfast Gamgee",Hobbit
+"Rose Gamgee",Hobbit
+"Hamfast Gardner",Hobbit
+"Pippin Gamgee",Hobbit
+"Primrose Gardner",Hobbit
+"Robin Gardner",Hobbit
+"Durin",Dwarf
+"Poppy Bolger",Hobbit
+"Tolman Cotton Jr.",Hobbit
+"Carl Cotton",Hobbit
+"Wilcome Cotton",Hobbit
+"Daisy Gamgee",Hobbit
+"Berilac Brandybuck",Hobbit
+"Doderic Brandybuck",Hobbit
+"Gorbadoc Brandybuck",Hobbit
+"Ilberic Brandybuck",Hobbit
+"Marmadoc Brandybuck",Hobbit
+"Merimac Brandybuck",Hobbit
+"Orgulas Brandybuck",Hobbit
+"Rorimac Brandybuck",Hobbit
+"Salvia Bolger",Hobbit
+"Bilbo Gardner",Hobbit
+"Briffo Boffin",Hobbit
+"Gruffo Boffin",Hobbit
+"Lavender Boffin",Hobbit
+"Uffo Boffin",Hobbit
+"Bodo Proudfoot",Hobbit
+"Linda Proudfoot",Hobbit
+"Sancho Proudfoot",Hobbit
+"Olo Proudfoot",Hobbit
+"Nimloth",Elf
+"Saradoc Brandybuck",Hobbit
+"Gríma Wormtongue",Human
+"Gollum",Hobbit
+"Legolas",Elf
+"Elemmakil",Elf
+"Radagast",Maiar
+"Gandalf",Maiar
+"Saruman",Maiar
+"Tilion",Maiar
+"Sauron",Maiar
+"Eönwë",Maiar
+"Durin's Bane",Maiar
+"Alatar",Maiar
+"Pallando",Maiar
+"Arien",Maiar
+"Uinen",Maiar
+"Moro Burrows",Hobbit
+"Mosco Burrows",Hobbit
+"Myrtle Burrows",Hobbit
+"Thingol",Elf
+"Théodwyn",Human
+"Eärendil",Human
+"Harry Goatleaf",Human

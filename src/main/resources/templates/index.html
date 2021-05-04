@@ -1,0 +1,24 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head> 
+    <title>Middle-Earth Name Classifier</title> 
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+    <form action="/" method="GET">
+        <input type="text" name="name" th:value="${name}" />
+        <select name="algorithm">
+            <option th:if="${algorithm} == 'logistic'" value="logistic" selected>Logistic</option>
+            <option th:if="${algorithm} != 'logistic'" value="logistic">Logistic</option>
+
+            <option th:if="${algorithm} == 'j48'" value="j48" selected>J48</option>
+            <option th:if="${algorithm} != 'j48'" value="j48">J48</option>
+
+            <option th:if="${algorithm} == 'naive-bayes'" value="naive-bayes" selected>Naive Bayes</option>
+            <option th:if="${algorithm} != 'naive-bayes'" value="naive-bayes">Naive Bayes</option>
+        </select>
+        <button type="submit">Submit</button>
+    </form>
+    <p th:if="${result} != null" th:text="${result}"></p>
+</body>
+</html>
